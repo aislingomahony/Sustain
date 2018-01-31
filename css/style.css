@@ -1,0 +1,38 @@
+body, #content, #container {
+	width: 100%;
+	margin: 0;
+	float: none;
+	background: #fff url(none);
+	font: 1em Georgia, "Times New Roman", Times, serif;
+	color: #000; 
+}
+
+p,h1,h2,h3,h4,h5,h6,table, .speakers{
+	width:90%;
+	padding-left:2% !important;
+	padding-right: 2% !important;
+	margin-left:2% !important;
+	margin-right:2% !important;
+}
+
+
+.list, #paypal_input{
+	padding-left:3% !important;
+	padding-right: 3% !important;
+	margin-left:3% !important;
+	margin-right:3% !important;
+}
+
+.sidebar{
+	background-color: #fafafa;
+}
+
+
+#welcome_video{
+	width:50% !important;
+	padding:0 20% !important;
+}
+.asterix{
+	font-size: 0.75em !important;
+	font-style:italic !important;
+}
